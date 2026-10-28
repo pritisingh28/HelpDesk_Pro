@@ -1,0 +1,101 @@
+Ticket_ID,Customer_ID,Issue_Category,Priority,Status,Assigned_Agent,Assigned_Technical_Member,Created_Date,Last_Updated_Date,Resolution_Date,Resolution_Time_Hours,Is_Escalated,Due_Date
+HD-0001,CUST-035,Technical,High,In Progress,Asha Patel,Sameer Kulkarni,2026-09-28 13:50,2026-09-30 14:37,,,Yes,2026-09-29 13:50
+HD-0002,CUST-013,Billing,High,Open,Priya Nair,,2026-08-09 06:55,2026-08-09 09:01,,,No,2026-08-10 06:55
+HD-0003,CUST-028,Billing,High,Resolved,Asha Patel,,2026-10-05 13:10,2026-10-06 16:25,2026-10-06 15:04,25.9,No,2026-10-06 13:10
+HD-0004,CUST-023,Service Request,High,Closed,Asha Patel,,2026-09-01 08:17,2026-09-02 00:55,2026-09-01 21:59,13.7,No,2026-09-02 08:17
+HD-0005,CUST-040,Service Request,Low,Resolved,Vikram Shah,,2026-09-25 07:51,2026-09-25 19:09,2026-09-25 16:45,8.9,No,2026-09-30 07:51
+HD-0006,CUST-015,Account,Medium,Open,Neha Sharma,,2026-09-03 07:00,2026-09-06 05:56,,,No,2026-09-06 07:00
+HD-0007,CUST-005,Billing,Medium,Resolved,Neha Sharma,,2026-08-10 13:38,2026-08-12 06:07,2026-08-12 00:44,35.1,No,2026-08-13 13:38
+HD-0008,CUST-036,Account,Medium,In Progress,Neha Sharma,,2026-09-25 19:40,2026-09-28 18:54,,,No,2026-09-28 19:40
+HD-0009,CUST-005,Service Request,Low,Closed,Asha Patel,,2026-08-21 08:45,2026-08-24 17:37,2026-08-24 14:21,77.6,No,2026-08-26 08:45
+HD-0010,CUST-009,Service Request,High,Awaiting Information,Vikram Shah,,2026-08-20 13:53,2026-08-21 00:20,,,No,2026-08-21 13:53
+HD-0011,CUST-009,Service Request,Medium,Awaiting Information,Neha Sharma,,2026-08-23 19:45,2026-08-24 11:41,,,No,2026-08-26 19:45
+HD-0012,CUST-028,Billing,High,Open,Rahul Mehta,Sameer Kulkarni,2026-09-16 18:04,2026-09-19 03:08,,,Yes,2026-09-17 18:04
+HD-0013,CUST-001,Technical,Medium,Resolved,Neha Sharma,,2026-09-24 15:52,2026-09-28 20:04,2026-09-28 13:10,93.3,No,2026-09-27 15:52
+HD-0014,CUST-028,Technical,Medium,Awaiting Information,Neha Sharma,Sameer Kulkarni,2026-10-02 07:06,2026-10-02 15:18,,,Yes,2026-10-05 07:06
+HD-0015,CUST-007,Billing,High,Resolved,Priya Nair,,2026-08-15 18:30,2026-08-17 00:36,2026-08-16 20:30,26.0,No,2026-08-16 18:30
+HD-0016,CUST-035,Service Request,Low,Awaiting Information,Neha Sharma,,2026-09-27 06:59,2026-09-29 13:55,,,No,2026-10-02 06:59
+HD-0017,CUST-016,Technical,Medium,Awaiting Information,Neha Sharma,Kavita Desai,2026-09-18 15:34,2026-09-19 08:57,,,Yes,2026-09-21 15:34
+HD-0018,CUST-031,Technical,High,Awaiting Information,Rahul Mehta,Sameer Kulkarni,2026-09-22 00:24,2026-09-22 09:49,,,Yes,2026-09-23 00:24
+HD-0019,CUST-013,Account,Medium,Closed,Rahul Mehta,,2026-09-20 10:03,2026-09-24 09:24,2026-09-24 03:21,89.3,No,2026-09-23 10:03
+HD-0020,CUST-005,Service Request,Medium,Resolved,Priya Nair,,2026-10-05 06:27,2026-10-07 04:42,2026-10-07 02:39,44.2,No,2026-10-08 06:27
+HD-0021,CUST-003,Technical,Medium,In Progress,Asha Patel,Arjun Rao,2026-09-01 03:33,2026-09-01 20:11,,,Yes,2026-09-04 03:33
+HD-0022,CUST-037,Technical,Medium,In Progress,Priya Nair,,2026-08-31 10:49,2026-08-31 20:30,,,No,2026-09-03 10:49
+HD-0023,CUST-028,Billing,High,Awaiting Information,Asha Patel,,2026-09-22 19:45,2026-09-23 02:54,,,No,2026-09-23 19:45
+HD-0024,CUST-007,Billing,Medium,Closed,Asha Patel,Sameer Kulkarni,2026-09-02 14:58,2026-09-03 04:01,2026-09-02 22:10,7.2,Yes,2026-09-05 14:58
+HD-0025,CUST-005,Account,High,Awaiting Information,Neha Sharma,,2026-08-24 00:11,2026-08-25 09:36,,,No,2026-08-25 00:11
+HD-0026,CUST-011,Technical,High,Closed,Asha Patel,,2026-09-10 17:02,2026-09-12 07:02,2026-09-12 00:14,31.2,No,2026-09-11 17:02
+HD-0027,CUST-017,Billing,Medium,Closed,Rahul Mehta,,2026-09-07 08:49,2026-09-09 06:00,2026-09-08 22:07,37.3,No,2026-09-10 08:49
+HD-0028,CUST-013,Service Request,Medium,Closed,Priya Nair,,2026-09-11 18:58,2026-09-14 14:54,2026-09-14 10:58,64.0,No,2026-09-14 18:58
+HD-0029,CUST-033,Account,Low,Resolved,Neha Sharma,,2026-08-28 09:10,2026-08-28 20:46,2026-08-28 16:04,6.9,No,2026-09-02 09:10
+HD-0030,CUST-016,Account,High,Awaiting Information,Asha Patel,,2026-09-18 17:15,2026-09-20 12:10,,,No,2026-09-19 17:15
+HD-0031,CUST-038,Technical,Low,Resolved,Asha Patel,,2026-09-07 03:03,2026-09-09 18:27,2026-09-09 15:03,60.0,No,2026-09-12 03:03
+HD-0032,CUST-009,Service Request,Low,In Progress,Rahul Mehta,,2026-09-21 19:45,2026-09-22 15:01,,,No,2026-09-26 19:45
+HD-0033,CUST-007,Service Request,Medium,Closed,Asha Patel,,2026-10-01 12:19,2026-10-03 17:06,2026-10-03 09:07,44.8,No,2026-10-04 12:19
+HD-0034,CUST-024,Account,Medium,Open,Asha Patel,,2026-08-08 01:02,2026-08-10 16:21,,,No,2026-08-11 01:02
+HD-0035,CUST-020,Account,Medium,Resolved,Priya Nair,,2026-08-27 07:33,2026-08-27 16:18,2026-08-27 09:45,2.2,No,2026-08-30 07:33
+HD-0036,CUST-019,Technical,Low,Open,Priya Nair,Arjun Rao,2026-09-30 18:11,2026-10-01 05:32,,,Yes,2026-10-05 18:11
+HD-0037,CUST-017,Account,Medium,In Progress,Neha Sharma,,2026-09-25 10:16,2026-09-26 22:45,,,No,2026-09-28 10:16
+HD-0038,CUST-029,Technical,Medium,Closed,Rahul Mehta,Kavita Desai,2026-08-05 23:58,2026-08-08 15:50,2026-08-08 13:40,61.7,Yes,2026-08-08 23:58
+HD-0039,CUST-024,Billing,Medium,Open,Rahul Mehta,,2026-09-20 14:09,2026-09-22 05:31,,,No,2026-09-23 14:09
+HD-0040,CUST-014,Account,Medium,Open,Asha Patel,,2026-09-23 09:30,2026-09-26 02:14,,,No,2026-09-26 09:30
+HD-0041,CUST-010,Account,Medium,In Progress,Vikram Shah,,2026-10-02 10:59,2026-10-05 09:06,,,No,2026-10-05 10:59
+HD-0042,CUST-027,Account,Low,Closed,Asha Patel,,2026-08-22 22:09,2026-08-23 23:57,2026-08-23 16:33,18.4,No,2026-08-27 22:09
+HD-0043,CUST-030,Account,Medium,Closed,Vikram Shah,Arjun Rao,2026-10-01 08:26,2026-10-02 13:29,2026-10-02 06:56,22.5,Yes,2026-10-04 08:26
+HD-0044,CUST-005,Service Request,Low,Closed,Rahul Mehta,,2026-09-02 04:50,2026-09-03 22:20,2026-09-03 20:02,39.2,No,2026-09-07 04:50
+HD-0045,CUST-002,Service Request,Medium,In Progress,Priya Nair,,2026-08-26 18:45,2026-08-27 18:43,,,No,2026-08-29 18:45
+HD-0046,CUST-021,Service Request,High,Closed,Asha Patel,,2026-08-11 20:58,2026-08-12 20:23,2026-08-12 17:34,20.6,No,2026-08-12 20:58
+HD-0047,CUST-035,Technical,Medium,Resolved,Vikram Shah,Sameer Kulkarni,2026-09-10 02:19,2026-09-10 11:25,2026-09-10 04:01,1.7,Yes,2026-09-13 02:19
+HD-0048,CUST-008,Account,Medium,Open,Neha Sharma,,2026-10-02 21:27,2026-10-04 18:23,,,No,2026-10-05 21:27
+HD-0049,CUST-025,Service Request,Medium,Resolved,Neha Sharma,,2026-10-05 21:19,2026-10-08 04:49,2026-10-08 03:13,53.9,No,2026-10-08 21:19
+HD-0050,CUST-014,Account,Medium,In Progress,Asha Patel,,2026-10-02 00:37,2026-10-02 22:38,,,No,2026-10-05 00:37
+HD-0051,CUST-011,Service Request,Medium,Awaiting Information,Vikram Shah,,2026-09-09 12:06,2026-09-11 21:17,,,No,2026-09-12 12:06
+HD-0052,CUST-020,Technical,Medium,Resolved,Asha Patel,,2026-09-30 08:16,2026-10-03 21:06,2026-10-03 15:04,78.8,No,2026-10-03 08:16
+HD-0053,CUST-005,Account,High,Open,Priya Nair,,2026-08-21 19:44,2026-08-24 08:56,,,No,2026-08-22 19:44
+HD-0054,CUST-001,Billing,Low,Resolved,Vikram Shah,,2026-09-11 19:52,2026-09-13 22:05,2026-09-13 20:04,48.2,No,2026-09-16 19:52
+HD-0055,CUST-036,Technical,Low,In Progress,Priya Nair,,2026-10-08 17:30,2026-10-10 03:03,,,No,2026-10-13 17:30
+HD-0056,CUST-029,Technical,Medium,Closed,Priya Nair,,2026-08-24 01:22,2026-08-26 18:46,2026-08-26 11:10,57.8,No,2026-08-27 01:22
+HD-0057,CUST-018,Billing,Low,Resolved,Vikram Shah,,2026-09-26 03:21,2026-09-28 05:23,2026-09-27 23:21,44.0,No,2026-10-01 03:21
+HD-0058,CUST-021,Billing,Medium,In Progress,Rahul Mehta,Kavita Desai,2026-09-17 19:47,2026-09-18 15:29,,,Yes,2026-09-20 19:47
+HD-0059,CUST-027,Technical,High,In Progress,Rahul Mehta,,2026-09-19 12:58,2026-09-19 17:46,,,No,2026-09-20 12:58
+HD-0060,CUST-002,Billing,Medium,In Progress,Priya Nair,,2026-08-31 11:49,2026-09-03 07:56,,,No,2026-09-03 11:49
+HD-0061,CUST-027,Billing,Medium,Closed,Vikram Shah,,2026-09-22 18:36,2026-09-26 12:25,2026-09-26 04:48,82.2,No,2026-09-25 18:36
+HD-0062,CUST-026,Account,Medium,In Progress,Vikram Shah,,2026-09-19 08:45,2026-09-20 09:05,,,No,2026-09-22 08:45
+HD-0063,CUST-037,Account,Low,Closed,Priya Nair,,2026-10-06 06:59,2026-10-06 14:11,2026-10-06 10:59,4.0,No,2026-10-11 06:59
+HD-0064,CUST-025,Technical,High,Awaiting Information,Rahul Mehta,,2026-09-30 17:20,2026-09-30 21:08,,,No,2026-10-01 17:20
+HD-0065,CUST-027,Account,Medium,In Progress,Neha Sharma,,2026-08-31 04:06,2026-09-02 10:17,,,No,2026-09-03 04:06
+HD-0066,CUST-003,Technical,Medium,Resolved,Rahul Mehta,Kavita Desai,2026-08-24 08:05,2026-08-27 05:15,2026-08-26 22:59,62.9,Yes,2026-08-27 08:05
+HD-0067,CUST-008,Technical,Low,In Progress,Rahul Mehta,Arjun Rao,2026-10-09 00:38,2026-10-09 09:53,,,Yes,2026-10-14 00:38
+HD-0068,CUST-008,Account,Medium,In Progress,Priya Nair,,2026-09-21 17:00,2026-09-23 12:48,,,No,2026-09-24 17:00
+HD-0069,CUST-013,Service Request,High,Open,Vikram Shah,,2026-08-16 06:45,2026-08-17 11:25,,,No,2026-08-17 06:45
+HD-0070,CUST-037,Account,High,Closed,Priya Nair,,2026-08-08 07:01,2026-08-09 16:48,2026-08-09 10:25,27.4,No,2026-08-09 07:01
+HD-0071,CUST-032,Service Request,Medium,Resolved,Neha Sharma,Sameer Kulkarni,2026-08-05 02:43,2026-08-05 08:50,2026-08-05 05:25,2.7,Yes,2026-08-08 02:43
+HD-0072,CUST-018,Billing,Low,Resolved,Rahul Mehta,,2026-08-10 23:33,2026-08-13 00:08,2026-08-12 18:15,42.7,No,2026-08-15 23:33
+HD-0073,CUST-006,Billing,Medium,Closed,Neha Sharma,,2026-09-26 10:28,2026-09-30 03:07,2026-09-29 20:28,82.0,No,2026-09-29 10:28
+HD-0074,CUST-032,Billing,High,Awaiting Information,Vikram Shah,,2026-08-26 18:19,2026-08-27 18:40,,,No,2026-08-27 18:19
+HD-0075,CUST-018,Account,Medium,In Progress,Neha Sharma,,2026-08-30 23:00,2026-09-02 14:24,,,No,2026-09-02 23:00
+HD-0076,CUST-016,Technical,Medium,In Progress,Vikram Shah,Kavita Desai,2026-09-20 23:08,2026-09-22 15:11,,,Yes,2026-09-23 23:08
+HD-0077,CUST-026,Billing,Medium,Awaiting Information,Asha Patel,,2026-10-03 05:39,2026-10-04 02:58,,,No,2026-10-06 05:39
+HD-0078,CUST-036,Account,Medium,Resolved,Priya Nair,,2026-10-03 08:13,2026-10-05 02:11,2026-10-04 18:13,34.0,No,2026-10-06 08:13
+HD-0079,CUST-021,Service Request,Medium,In Progress,Asha Patel,,2026-08-31 11:37,2026-09-02 15:36,,,No,2026-09-03 11:37
+HD-0080,CUST-019,Account,High,Resolved,Priya Nair,,2026-08-12 06:10,2026-08-13 19:12,2026-08-13 14:58,32.8,No,2026-08-13 06:10
+HD-0081,CUST-003,Account,Medium,In Progress,Priya Nair,,2026-08-10 12:36,2026-08-10 21:53,,,No,2026-08-13 12:36
+HD-0082,CUST-001,Service Request,Medium,Open,Vikram Shah,,2026-08-06 08:06,2026-08-06 15:39,,,No,2026-08-09 08:06
+HD-0083,CUST-031,Service Request,Medium,Awaiting Information,Asha Patel,,2026-09-22 15:03,2026-09-23 09:22,,,No,2026-09-25 15:03
+HD-0084,CUST-037,Technical,Medium,Open,Asha Patel,,2026-08-11 18:13,2026-08-12 05:18,,,No,2026-08-14 18:13
+HD-0085,CUST-040,Technical,Low,Open,Priya Nair,,2026-08-29 00:44,2026-08-30 19:44,,,No,2026-09-03 00:44
+HD-0086,CUST-040,Billing,Medium,Awaiting Information,Vikram Shah,,2026-08-21 22:01,2026-08-22 20:08,,,No,2026-08-24 22:01
+HD-0087,CUST-012,Technical,Low,In Progress,Asha Patel,Sameer Kulkarni,2026-08-06 20:34,2026-08-07 08:02,,,Yes,2026-08-11 20:34
+HD-0088,CUST-015,Technical,High,In Progress,Vikram Shah,,2026-09-20 14:50,2026-09-21 11:56,,,No,2026-09-21 14:50
+HD-0089,CUST-038,Service Request,Medium,Awaiting Information,Neha Sharma,,2026-08-27 14:22,2026-08-29 23:07,,,No,2026-08-30 14:22
+HD-0090,CUST-011,Account,Medium,Resolved,Neha Sharma,,2026-09-30 13:22,2026-10-03 21:37,2026-10-03 20:58,79.6,No,2026-10-03 13:22
+HD-0091,CUST-033,Service Request,Medium,Awaiting Information,Vikram Shah,,2026-08-29 08:59,2026-09-01 04:52,,,No,2026-09-01 08:59
+HD-0092,CUST-015,Billing,Medium,Resolved,Neha Sharma,,2026-09-19 12:36,2026-09-21 23:30,2026-09-21 23:12,58.6,No,2026-09-22 12:36
+HD-0093,CUST-018,Technical,Low,Resolved,Rahul Mehta,Arjun Rao,2026-10-01 18:01,2026-10-03 21:15,2026-10-03 16:01,46.0,Yes,2026-10-06 18:01
+HD-0094,CUST-007,Billing,Medium,Awaiting Information,Vikram Shah,Kavita Desai,2026-08-17 21:28,2026-08-18 21:35,,,Yes,2026-08-20 21:28
+HD-0095,CUST-036,Service Request,Medium,Awaiting Information,Vikram Shah,,2026-08-16 00:19,2026-08-18 10:55,,,No,2026-08-19 00:19
+HD-0096,CUST-001,Billing,High,In Progress,Priya Nair,Kavita Desai,2026-08-04 17:09,2026-08-07 04:34,,,Yes,2026-08-05 17:09
+HD-0097,CUST-004,Billing,Medium,In Progress,Vikram Shah,,2026-09-30 05:40,2026-10-02 02:46,,,No,2026-10-03 05:40
+HD-0098,CUST-039,Service Request,Medium,Closed,Vikram Shah,,2026-08-19 21:40,2026-08-20 18:27,2026-08-20 10:40,13.0,No,2026-08-22 21:40
+HD-0099,CUST-008,Account,Medium,Open,Rahul Mehta,,2026-08-23 03:45,2026-08-26 03:11,,,No,2026-08-26 03:45
+HD-0100,CUST-018,Technical,Medium,Open,Neha Sharma,,2026-09-12 09:02,2026-09-13 21:46,,,No,2026-09-15 09:02
